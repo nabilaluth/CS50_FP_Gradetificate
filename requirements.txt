@@ -1,0 +1,9 @@
+
+Library requirements in this project:
+a) FPDF
+b) FPDF2
+c) Cowsay
+d) tabulate
+
+Extensions requirements:
+a) PDF Viewer / PDF Preview
